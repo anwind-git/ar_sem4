@@ -1,1 +1,1 @@
-<img src="https://disk.yandex.ru/i/PJ3X6UQqjnBXLA" alt="UML">
+![uml](./uml.jpg)
